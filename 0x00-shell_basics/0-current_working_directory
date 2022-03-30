@@ -1,2 +1,2 @@
-#!bin/nashs
+#!/bin/bash
 pwd
